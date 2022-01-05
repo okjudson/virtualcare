@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home"
+            android:title="Home"
+            android:icon="@drawable/home"/>
+        <item
+            android:id="@+id/mavaliar"
+            android:title="Avaliar"
+            android:icon="@drawable/avaliar"/>
+        <item
+            android:id="@+id/mversaopro"
+            android:title="Contribuir"
+            android:icon="@drawable/versaopro"/>
+
+        <item android:title="Calcular média:">
+            <menu>
+                <group android:checkableBehavior="single">
+                    <item
+                        android:id="@+id/mgestao"
+                        android:title="Gestão"
+                        android:icon="@drawable/gestao"/>
+                    <item
+                        android:id="@+id/mgraduaçao"
+                        android:title="Graduação"
+                        android:icon="@drawable/graduacao"/>
+
+                    <item
+                        android:id="@+id/mpraticadoc"
+                        android:title="Pratica Docente"
+                        android:icon="@drawable/praticadoc"/>
+                    <item
+                        android:id="@+id/mtcc"
+                        android:title="Trab. de Curso"
+                        android:icon="@drawable/tcc"/>
+                    <item
+                        android:id="@+id/mexame"
+                        android:title="Exame"
+                        android:icon="@drawable/exame"/>
+                </group>
+            </menu>
+        </item>
+
+
+
+        <item android:title="Utilidades:">
+            <menu>
+                <group android:checkableBehavior="single">
+
+
+                    <item
+                        android:id="@+id/mconsultarnotas"
+                        android:title="Consultar Notas"
+                        android:icon="@drawable/consultarnotas"/>
+                    <item
+                        android:id="@+id/mduvidas"
+                        android:title="Dúvidas Frequentes"
+                        android:icon="@drawable/duvidas"/>
+                    <item
+                        android:id="@+id/mnews"
+                        android:title="Blog News"
+                        android:icon="@drawable/news"/>
+
+                </group>
+            </menu>
+        </item>
+
+
+        <item android:title="">
+            <menu>
+                <group android:checkableBehavior="single">
+                    <item
+                        android:id="@+id/instagram"
+                        android:title="Instagram"
+                        android:icon="@drawable/instagram"/>
+
+                    <item
+                        android:id="@+id/msair"
+                        android:title="Sair"
+                        android:icon="@drawable/exit"/>
+
+
+                </group>
+            </menu>
+        </item>
+
+</group>
+    </menu>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/md_falcon_700"
+    android:orientation="vertical"
+    tools:context="com.judsonnunes.virtualcare.edu.virtualcare.SplashActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="bottom|center"
+        android:text="CALCULAR MÉDIA UNIP"
+        android:textColor="#FFF"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="top|center"
+        android:text="ENI STUDIO"
+        android:textColor="#FFF"
+        android:textSize="40sp" />
+
+</LinearLayout>

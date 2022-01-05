@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Virtual Care</string>
+    <string name="action_sair">Sair</string>
+    <string name="action_voltar">Voltar</string>
+    <string name="about">About</string>
+    <string name="plus">Mais</string>
+    <string name="novi">Novidades</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="capturartela">Capturar Tela</string>
+    <string name="menu_ads"></string>
+    <string name="texto_novidades">Primeiramente obrigado por usar o App, sou um desenvolvedor iniciante, e estou aprendendo muita coisa nova, das quais em breve eu estarei implementando aqui no App.</string>
+    <string name="alerta_card">Este aplicativo foi desenvolvido para simulação de cálculo de médias. As notas oficiais serão disponibilizadas na Secretaria Virtual do Aluno, no menu Notas e Frequência.</string>
+    <string name="alerta_card2">A UNIP realizou mudanças nos cálculos de médias gentileza utilize o botão amarelo para calcular sua média com a nova fórmula.</string>
+    <string name="aboutactivity">A eni Studio é uma agência de desenvolvimento android autodidata, o que nos motiva é a busca pelo conhecimento, e o que podemos fazer para mudar a forma como relacionamos com o universo.</string>
+    <string name="dev">desenvolvido por Judson Nunes</string>
+
+
+    <string name="lbl_calculargestao">Calcular Média</string>
+    <string name="semtexto"></string>
+    <string name="lbl_botaogestao">GESTÃO</string>
+    <string name="title_activity_activity_gestao">Gestão</string>
+    <string name="lbl_exame">EXAME</string>
+    <string name="lbl_gradua">GRADUAÇÃO</string>
+    <string name="title_activity_activity_graduacao">Graduação</string>
+    <string name="title_activity_activity_exame">Exame</string>
+    <string name="lbl_pim">pim</string>
+    <string name="lbl_tg" />
+    <string name="title_activity_activity_menu_novidades">Menu: Novidades</string>
+    <string name="lbl_novidades">Novidades</string>
+    <string name="title_activity_activity_menu_about">Menu: Sobre o App</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="title_activity_fullscreen">Judson Nunes</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="apppro">VERSÃO PRO - SEM ANÚNCIOS</string>
+    <string name="appformula2018">FORMULAS 2018 AQUI</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="version_app">Versão 1.0</string>
+    <string name="admob_banner_teste"> teste ca-app-pub-3940256099942544/6300978111 | cod banner ca-app-pub-8537266085420592/9567236218 </string>
+    <string name="admob_banner">ca-app-pub-8537266085420592/9567236218</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="contribuicao_ativa">Você já fez uma contribuição que ainda está ativa!!\n\nFico muito feliz por essa demonstração de carinho com o aplicativo, isso me incentiva a sempre melhorar e seguir em frente criando aplicativos para facilitar o dia a dia dos usuários. \n\n MUITO OBRIGADO!!!!!!!!\n\nCom carinho,\nJudson Nunes </string>
+
+
+    <string name="subscription_period_prompt">Selecione seu período de contribuição</string>
+    <string name="subscription_resignup_prompt">Para reativar sua contribuição, selecione seu período de assinatura</string>
+    <string name="subscription_update_prompt">Para alterar sua contribuição, selecione seu novo período de assinatura</string>
+    <string name="subscription_period_monthly">Mensal R$2,99</string>
+    <string name="subscription_period_threemonth">Trimestral R$7,99</string>
+    <string name="subscription_period_sixmonth">Semestral R$15,99</string>
+    <string name="subscription_period_yearly">Anual R$29,99</string>
+    <string name="subscription_prompt_continue">Contribuir</string>
+    <string name="subscription_prompt_cancel">Cancelar</string>
+    <string name="content_description_app_loading_image">Carregando</string>
+    <string name="content_description_title_image">80\'s Video Game Style Car Logo</string>
+    <string name="content_desc_gas_gauge_indicator">Gas gauge indicator</string>
+    <string name="content_desc_free_vs_premium_indicator">Free or Premium Image Indicator</string>
+
+
+    <string name="concerts_theater"><![CDATA[Concerts & Theater]]></string>
+    <string name="ev_wth_friends">Events with friends</string>
+    <string name="friends_go">Friends go</string>
+    <string name="latest">Latest</string>
+    <string name="map_location">Map Location</string>
+    <string name="meetup_for_android_developer_s">Meetup for Android Developer\'s</string>
+</resources>

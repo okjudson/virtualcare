@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- End current session if app sleeps for a period of time -->
+    <integer name="ga_sessionTimeout">300</integer>
+
+    <!-- Enable automatic Activity measurement -->
+    <bool name="ga_autoActivityTracking">true</bool>
+    <screenName name="edu.virtualcare.ActivityDuvidas">Duvidas</screenName>
+    <screenName name="edu.virtualcare.ActivityExame">Exame</screenName>
+    <screenName name="edu.virtualcare.ActivityGestao">Gestao</screenName>
+    <screenName name="edu.virtualcare.ActivityGraduacao">Graduação</screenName>
+    <screenName name="edu.virtualcare.ActivitySiteNews">Site Unip</screenName>
+    <screenName name="edu.virtualcare.FullscreenActivity">Site Judson</screenName>
+    <screenName name="edu.virtualcare.MainActivity">Tela Inicial</screenName>
+    <screenName name="edu.virtualcare.ActivityAbout">About</screenName>
+    <screenName name="edu.virtualcare.PoliticaPrivacidadeActivity">Politica de Privacidade</screenName>
+
+    <screenName name="edu.virtualcare.ActivityGestao">Gestao formula 2018</screenName>
+    <screenName name="com.judsonnunes.virtualcare.ActivityParceiros">Parceiros</screenName>
+    <screenName name="edu.virtualcare.ActivityGraduacao">Graduação formula 2018</screenName>
+    <screenName name="com.judsonnunes.virtualcare.ActivityFormula2018">Formula 2018</screenName>
+    <screenName name="com.judsonnunes.virtualcare.ActivityPagseguro">Doar com PagSeguro</screenName>
+    <screenName name="edu.virtualcare.ActivityPraticaDocente">Pratica Docente</screenName>
+    <screenName name="com.judsonnunes.virtualcare.MainActivityUP">Nova tela inicial</screenName>
+    <screenName name="com.judsonnunes.virtualcare.blogger.DetailActivity">Página de Leitura - Blog</screenName>
+    <screenName name="com.judsonnunes.virtualcare.blogger.MainActivityBlog">Blog home</screenName>
+    <!--  The property id associated with this analytics tracker -->
+    <string name="ga_trackingId">UA-27240670-6</string>
+
+    <string name="ga_sampleFrequency">100.0</string>
+
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+
+    <!--
+      See Project Structure -> Analytics -> Google Analytics -> Learn More
+      to learn more about configuring this file.
+    -->
+
+
+</resources>

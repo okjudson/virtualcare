@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/project/vc 1.0 - integro - Copia/virtualcare/app/src/main/res/drawable-xhdpi/background_bg.xml" value="0.1" />
+        <entry key="..\:/project/vc 1.0 - integro - Copia/virtualcare/app/src/main/res/drawable-xxxhdpi/arc_dark_blue_fill2.xml" value="0.1" />
+        <entry key="..\:/project/vc 1.0 - integro - Copia/virtualcare/app/src/main/res/drawable-xxxhdpi/circle_blue_fil.xml" value="0.1" />
+        <entry key="..\:/project/vc 1.0 - integro - Copia/virtualcare/app/src/main/res/drawable-xxxhdpi/g_azul1.xml" value="0.1" />
+        <entry key="..\:/project/vc 1.0 - integro - Copia/virtualcare/app/src/main/res/drawable-xxxhdpi/g_vermelho2.xml" value="0.1" />
+        <entry key="..\:/project/vc 1.0 - integro - Copia/virtualcare/app/src/main/res/layout/activity_list.xml" value="0.20199275362318841" />
+        <entry key="..\:/project/vc 1.0 - integro - Copia/virtualcare/app/src/main/res/layout/activity_selected_user.xml" value="0.1" />
+        <entry key="..\:/project/vc 1.0 - integro - Copia/virtualcare/app/src/main/res/layout/content_main.xml" value="0.12409420289855072" />
+        <entry key="..\:/project/vc 1.0 - integro - Copia/virtualcare/app/src/main/res/layout/list_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/vc 1.0 - integro - Copia/virtualcare/app/src/main/res/layout/post_item.xml" value="0.20199275362318841" />
+        <entry key="..\:/project/vc 1.0 - integro - Copia/virtualcare/app/src/main/res/layout/recyclerview_row.xml" value="0.20199275362318841" />
+        <entry key="..\:/project/vc 1.0 - integro - Copia/virtualcare/app/src/main/res/layout/row_users.xml" value="0.14678899082568808" />
+        <entry key="..\:/project/vc 1.0 - integro - Copia/virtualcare/app/src/main/res/layout/row_uses.xml" value="0.1308876811594203" />
+        <entry key="..\:/project/vc 1.0 - integro - Copia/virtualcare/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

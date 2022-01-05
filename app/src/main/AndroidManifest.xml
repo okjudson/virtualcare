@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="edu.virtualcare"
+    android:versionCode="01"
+    android:versionName="1.1">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.BILLING" />
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM"/>
+    
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_app2"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true"
+
+        >
+
+        <activity
+            android:name="edu.virtualcare.SplashActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+        <activity
+            android:name="edu.virtualcare.MainActivity"
+            android:label="@string/semtexto">
+            </activity>
+        <activity
+            android:name="edu.virtualcare.FullscreenActivity"
+            android:label="@string/semtexto"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.Exame" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-8537266085420592~6892971412" />
+
+        <activity android:name="edu.virtualcare.ActivitySiteNews"
+            android:label="@string/semtexto"/>
+        <activity
+            android:name="edu.virtualcare.ActivityDuvidas"
+            android:label="@string/semtexto" />
+        <activity
+            android:name="edu.virtualcare.ActivityAbout"
+            android:label="@string/semtexto" />
+        <activity
+            android:name="edu.virtualcare.PoliticaPrivacidadeActivity"
+            android:label="@string/semtexto" />
+        <activity
+            android:name="blogger.MainActivityBlog"
+            android:label="@string/semtexto"></activity>
+        <activity
+            android:name="blogger.DetailActivity"
+            android:label="@string/semtexto"></activity>
+        <activity
+            android:name="purchase.PurchaseActivity"
+            android:label="@string/semtexto"></activity>
+
+        <activity android:name="edu.virtualcare.ActivityAlarm"
+            android:label="@string/semtexto"></activity>
+
+        <activity android:name="edu.virtualcare.ActivitySiteAnamnese"
+            android:label="@string/semtexto"></activity>
+
+        <activity android:name="edu.virtualcare.ActivitySiteEditorial"
+            android:label="@string/semtexto"></activity>
+        <activity android:name=".lista.MainSelectedUserActivity" />
+
+        <activity android:name=".lista.SelectedUserActivity" />
+
+    </application>
+
+</manifest>
